@@ -14,6 +14,7 @@
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/ptraced/SharpConfig</PackageProjectUrl>
     <PackageId>$(AssemblyName)-Reworked</PackageId>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
